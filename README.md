@@ -49,3 +49,9 @@ This indicated that the Ministry of Internal Affairs (MUP) either implemented th
 * **Technical:** I moved from manual data handling to automated pipeline creation, mastering the parsing of "ragged" government datasets.
 * **Journalistic:** I developed the ability to perform "post-mortem" diagnostics on government data to identify systematic biases, recognizing that data is often a reflection of administrative workflows rather than objective reality.
 * **Future Work:** My next goal is to incorporate geospatial mapping to identify specific "accident black spots" by municipality and correlate these with real-time environmental data.
+
+## 🛠 Tools
+- **Data Ingestion:** Python (Pandas)
+- **Data Processing:** Positional column mapping and stream manipulation
+- **Visualization:** Datawrapper, Pexels, Unsplash, for gif ezgif.com
+- **Repository Management:** GitHub Pages
